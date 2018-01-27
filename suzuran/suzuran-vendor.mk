@@ -573,5 +573,10 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so
 
 PRODUCT_PACKAGES += \
+    datastatusnotification \
+    qcrilmsgtunnel \
     ims \
-    imssettings
+    imssettings \
+    qcnvitems \
+    qcrilhook \
+    QtiTelephonyService
