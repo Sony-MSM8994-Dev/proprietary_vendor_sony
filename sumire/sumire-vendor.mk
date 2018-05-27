@@ -60,7 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sumire/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin:system/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin \
     vendor/sony/sumire/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin:system/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin \
     vendor/sony/sumire/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
-    vendor/sony/sumire/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
+    vendor/sony/sumire/proprietary/vendor/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
     vendor/sony/sumire/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/sony/sumire/proprietary/etc/touch_fw_update.sh:system/etc/touch_fw_update.sh \
     vendor/sony/sumire/proprietary/lib/camera/libexcal_color_ctrl_plugin.so:system/lib/camera/libexcal_color_ctrl_plugin.so \
