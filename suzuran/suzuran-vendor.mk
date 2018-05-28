@@ -45,7 +45,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/etc/firmware/touch_module_id_0x45.img:system/etc/firmware/touch_module_id_0x45.img \
     vendor/sony/suzuran/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin:system/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin \
     vendor/sony/suzuran/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin:system/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin \
-    vendor/sony/suzuran/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
+    vendor/sony/suzuran/proprietary/vendor/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
     vendor/sony/suzuran/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/sony/suzuran/proprietary/etc/touch_fw_update.sh:system/etc/touch_fw_update.sh \
     vendor/sony/suzuran/proprietary/lib/camera/libexcal_color_ctrl_plugin.so:system/lib/camera/libexcal_color_ctrl_plugin.so \
