@@ -227,6 +227,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libtime_genoff
 
+PRODUCT_PACKAGES += \
+    nfc_nci.msm8994
+
 ifneq ($(BOARD_HAVE_RADIO),false)
 PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/bin/irsc_util:system/bin/irsc_util \
