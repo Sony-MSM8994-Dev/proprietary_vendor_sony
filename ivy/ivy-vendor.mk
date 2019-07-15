@@ -268,6 +268,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
     vendor/sony/ivy/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so \
     vendor/sony/ivy/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camera.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camera.so \
+    vendor/sony/ivy/proprietary/vendor/lib/libchromaflash.so:system/vendor/lib/libchromaflash.so \
     vendor/sony/ivy/proprietary/vendor/lib/libchromatix_s5k3m2xx_common.so:system/vendor/lib/libchromatix_s5k3m2xx_common.so \
     vendor/sony/ivy/proprietary/vendor/lib/libchromatix_s5k3m2xx_cpp_hfr_120.so:system/vendor/lib/libchromatix_s5k3m2xx_cpp_hfr_120.so \
     vendor/sony/ivy/proprietary/vendor/lib/libchromatix_s5k3m2xx_cpp_hfr_60.so:system/vendor/lib/libchromatix_s5k3m2xx_cpp_hfr_60.so \
@@ -384,16 +385,20 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/vendor/lib/libmmqjpegdma.so:system/vendor/lib/libmmqjpegdma.so \
     vendor/sony/ivy/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/sony/ivy/proprietary/vendor/lib/libois_lc898122.so:system/vendor/lib/libois_lc898122.so \
+    vendor/sony/ivy/proprietary/vendor/lib/liboptizoom.so:system/vendor/lib/liboptizoom.so \
     vendor/sony/ivy/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/sony/ivy/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/sony/ivy/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:system/vendor/lib/libqomx_jpegenc_pipe.so \
     vendor/sony/ivy/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/sony/ivy/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
     vendor/sony/ivy/proprietary/vendor/lib/libsecureui_svcsock.so:system/vendor/lib/libsecureui_svcsock.so \
+    vendor/sony/ivy/proprietary/vendor/lib/libseemore.so:system/vendor/lib/libseemore.so \
     vendor/sony/ivy/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/sony/ivy/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
     vendor/sony/ivy/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/sony/ivy/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
+    vendor/sony/ivy/proprietary/vendor/lib/libtrueportrait.so:system/vendor/lib/libtrueportrait.so \
+    vendor/sony/ivy/proprietary/vendor/lib/libubifocus.so:system/vendor/lib/libubifocus.so \
     vendor/sony/ivy/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/sony/ivy/proprietary/vendor/lib64/lib-sec-disp.so:system/vendor/lib64/lib-sec-disp.so \
     vendor/sony/ivy/proprietary/vendor/lib64/libQSEEComAPI.so:system/vendor/lib64/libQSEEComAPI.so \
