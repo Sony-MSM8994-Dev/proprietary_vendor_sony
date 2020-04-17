@@ -17,7 +17,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter ivy karin karin_windy sumire suzuran,$(TARGET_DEVICE)),)
+ifneq ($(filter ivy karin karin_windy satsuki sumire suzuran,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
