@@ -127,7 +127,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
     vendor/sony/suzuran/proprietary/lib64/libidd.so:system/lib64/libidd.so \
     vendor/sony/suzuran/proprietary/lib64/liblights-core.so:system/lib64/liblights-core.so \
-    vendor/sony/suzuran/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/sony/suzuran/proprietary/vendor/camera/LGI05BN0/color_ctrl.dat:system/vendor/camera/LGI05BN0/color_ctrl.dat \
     vendor/sony/suzuran/proprietary/vendor/camera/LGI05BN0/dataflow.dat:system/vendor/camera/LGI05BN0/dataflow.dat \
     vendor/sony/suzuran/proprietary/vendor/camera/LGI05BN0/debug_mgr.dat:system/vendor/camera/LGI05BN0/debug_mgr.dat \
@@ -555,7 +554,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/sony/suzuran/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
     vendor/sony/suzuran/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
-    vendor/sony/suzuran/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/sony/suzuran/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/lib-sec-disp.so:system/vendor/lib64/lib-sec-disp.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/libQSEEComAPI.so:system/vendor/lib64/libQSEEComAPI.so \
@@ -572,6 +570,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/vendor/lib64/libsensor1.so:system/vendor/lib64/libsensor1.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/libsensor_reg.so:system/vendor/lib64/libsensor_reg.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
-    vendor/sony/suzuran/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
-    vendor/sony/suzuran/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so

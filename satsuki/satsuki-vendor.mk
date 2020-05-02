@@ -126,7 +126,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/satsuki/proprietary/lib64/libcom_fingerprints_service.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcom_fingerprints_service.so \
     vendor/sony/satsuki/proprietary/lib64/libidd.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libidd.so \
     vendor/sony/satsuki/proprietary/lib64/liblights-core.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblights-core.so \
-    vendor/sony/satsuki/proprietary/vendor/bin/thermal-engine:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine \
     vendor/sony/satsuki/proprietary/vendor/camera/LGI05BN0/color_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/LGI05BN0/color_ctrl.dat \
     vendor/sony/satsuki/proprietary/vendor/camera/LGI05BN0/dataflow.dat:$(TARGET_COPY_OUT_VENDOR)/camera/LGI05BN0/dataflow.dat \
     vendor/sony/satsuki/proprietary/vendor/camera/LGI05BN0/debug_mgr.dat:$(TARGET_COPY_OUT_VENDOR)/camera/LGI05BN0/debug_mgr.dat \
@@ -553,7 +552,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/satsuki/proprietary/vendor/lib/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor1.so \
     vendor/sony/satsuki/proprietary/vendor/lib/libsensor_reg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor_reg.so \
     vendor/sony/satsuki/proprietary/vendor/lib/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssd.so \
-    vendor/sony/satsuki/proprietary/vendor/lib/libthermalclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthermalclient.so \
     vendor/sony/satsuki/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/sony/satsuki/proprietary/vendor/lib64/lib-sec-disp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-sec-disp.so \
     vendor/sony/satsuki/proprietary/vendor/lib64/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQSEEComAPI.so \
@@ -570,6 +568,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/satsuki/proprietary/vendor/lib64/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor1.so \
     vendor/sony/satsuki/proprietary/vendor/lib64/libsensor_reg.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor_reg.so \
     vendor/sony/satsuki/proprietary/vendor/lib64/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libssd.so \
-    vendor/sony/satsuki/proprietary/vendor/lib64/libthermalclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthermalclient.so \
-    vendor/sony/satsuki/proprietary/vendor/lib64/libthermalioctl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthermalioctl.so \
     vendor/sony/satsuki/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so
