@@ -70,7 +70,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/satsuki/proprietary/lib/camera/libexcal_snapshot_ctrl_plugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/camera/libexcal_snapshot_ctrl_plugin.so \
     vendor/sony/satsuki/proprietary/lib/camera/libexcal_splitter_plugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/camera/libexcal_splitter_plugin.so \
     vendor/sony/satsuki/proprietary/lib/camera/libexcal_stream_ctrl_plugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/camera/libexcal_stream_ctrl_plugin.so \
-    vendor/sony/satsuki/proprietary/lib/hw/camera.qcom.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.qcom.so \
+    vendor/sony/satsuki/proprietary/lib/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.msm8994.so \
     vendor/sony/satsuki/proprietary/lib/hw/fingerprint.msm8994.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/fingerprint.msm8994.so \
     vendor/sony/satsuki/proprietary/lib/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_fpc_tac_shared.so \
     vendor/sony/satsuki/proprietary/lib/libcacao_client.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcacao_client.so \
