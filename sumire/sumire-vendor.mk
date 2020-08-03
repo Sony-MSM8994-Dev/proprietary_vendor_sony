@@ -86,7 +86,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sumire/proprietary/lib/camera/libexcal_snapshot_ctrl_plugin.so:system/lib/camera/libexcal_snapshot_ctrl_plugin.so \
     vendor/sony/sumire/proprietary/lib/camera/libexcal_splitter_plugin.so:system/lib/camera/libexcal_splitter_plugin.so \
     vendor/sony/sumire/proprietary/lib/camera/libexcal_stream_ctrl_plugin.so:system/lib/camera/libexcal_stream_ctrl_plugin.so \
-    vendor/sony/sumire/proprietary/lib/hw/camera.qcom.so:system/vendor/lib/hw/camera.msm8994.so \
+    vendor/sony/sumire/proprietary/lib/hw/camera.qcom.so:system/vendor/lib/hw/camera.vendor.msm8994.so \
     vendor/sony/sumire/proprietary/lib/hw/fingerprint.msm8994.so:system/lib/hw/fingerprint.msm8994.so \
     vendor/sony/sumire/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/sony/sumire/proprietary/lib/libcacao_client.so:system/lib/libcacao_client.so \
