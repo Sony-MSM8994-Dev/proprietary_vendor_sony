@@ -571,7 +571,3 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/vendor/lib64/libsensor_reg.so:system/vendor/lib64/libsensor_reg.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
     vendor/sony/suzuran/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so
-
-PRODUCT_PACKAGES += \
-    ims \
-    imssettings
