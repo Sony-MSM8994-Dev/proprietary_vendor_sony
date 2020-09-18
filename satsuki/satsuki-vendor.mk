@@ -571,10 +571,5 @@ PRODUCT_COPY_FILES += \
     vendor/sony/satsuki/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so
 
 PRODUCT_PACKAGES += \
-    datastatusnotification \
-    qcrilmsgtunnel \
     ims \
-    imssettings \
-    qcnvitems \
-    qcrilhook \
-    QtiTelephonyService
+    imssettings
