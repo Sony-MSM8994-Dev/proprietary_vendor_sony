@@ -24,6 +24,7 @@ LOCAL_MODULE := libtime_genoff
 LOCAL_MODULE_OWNER := sony
 LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/libtime_genoff.so
 LOCAL_SRC_FILES_32 := proprietary/vendor/lib/libtime_genoff.so
+LOCAL_CHECK_ELF_FILES := false
 LOCAL_MULTILIB := both
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
@@ -35,6 +36,7 @@ ifeq ($(strip $(BOARD_NFC_CHIPSET)),pn547)
 include $(CLEAR_VARS)
 LOCAL_MODULE := nfc_nci.msm8994
 LOCAL_MODULE_OWNER := sony
+LOCAL_CHECK_ELF_FILES := false
 LOCAL_MULTILIB := both
 LOCAL_SRC_FILES_32 := proprietary/vendor/lib/hw/nfc_nci.msm8994.so
 LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/hw/nfc_nci.msm8994.so
