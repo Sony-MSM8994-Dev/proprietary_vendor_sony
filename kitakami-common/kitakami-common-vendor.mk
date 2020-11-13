@@ -18,7 +18,6 @@
 PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/sony/kitakami-common/proprietary/bin/iddd:system/bin/iddd \
-    vendor/sony/kitakami-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/sony/kitakami-common/proprietary/bin/mlog_qmi_service:system/bin/mlog_qmi_service \
     vendor/sony/kitakami-common/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/sony/kitakami-common/proprietary/bin/pm-proxy:system/bin/pm-proxy \
@@ -77,16 +76,12 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
     vendor/sony/kitakami-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/sony/kitakami-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/sony/kitakami-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/sony/kitakami-common/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
     vendor/sony/kitakami-common/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
     vendor/sony/kitakami-common/proprietary/lib/libcredential-manager-service.so:system/lib/libcredential-manager-service.so \
     vendor/sony/kitakami-common/proprietary/lib/libdevice_security.so:system/lib/libdevice_security.so \
-    vendor/sony/kitakami-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/sony/kitakami-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/sony/kitakami-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/sony/kitakami-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/sony/kitakami-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/sony/kitakami-common/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
     vendor/sony/kitakami-common/proprietary/lib/libplstorage.so:system/lib/libplstorage.so \
     vendor/sony/kitakami-common/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
@@ -96,17 +91,13 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/kitakami-common/proprietary/lib/soundfx/libsonypostprocbundle.so:system/lib/soundfx/libsonypostprocbundle.so \
     vendor/sony/kitakami-common/proprietary/lib/soundfx/libsonysweffect.so:system/lib/soundfx/libsonysweffect.so \
-    vendor/sony/kitakami-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/sony/kitakami-common/proprietary/lib64/lib-preload64.so:system/lib64/lib-preload64.so \
     vendor/sony/kitakami-common/proprietary/lib64/libMiscTaAccessor.so:system/lib64/libMiscTaAccessor.so \
     vendor/sony/kitakami-common/proprietary/lib64/lib_asb_tee.so:system/lib64/lib_asb_tee.so \
     vendor/sony/kitakami-common/proprietary/lib64/libcredential-manager-service.so:system/lib64/libcredential-manager-service.so \
     vendor/sony/kitakami-common/proprietary/lib64/libdevice_security.so:system/lib64/libdevice_security.so \
-    vendor/sony/kitakami-common/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/sony/kitakami-common/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
-    vendor/sony/kitakami-common/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/sony/kitakami-common/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
-    vendor/sony/kitakami-common/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/sony/kitakami-common/proprietary/lib64/libmiscta.so:system/lib64/libmiscta.so \
     vendor/sony/kitakami-common/proprietary/lib64/libplstorage.so:system/lib64/libplstorage.so \
     vendor/sony/kitakami-common/proprietary/lib64/libprotobuf-c.so:system/lib64/libprotobuf-c.so \
