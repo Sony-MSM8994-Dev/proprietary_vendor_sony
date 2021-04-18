@@ -73,7 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/lib/camera/libexcal_snapshot_ctrl_plugin.so:system/lib/camera/libexcal_snapshot_ctrl_plugin.so \
     vendor/sony/ivy/proprietary/lib/camera/libexcal_splitter_plugin.so:system/lib/camera/libexcal_splitter_plugin.so \
     vendor/sony/ivy/proprietary/lib/camera/libexcal_stream_ctrl_plugin.so:system/lib/camera/libexcal_stream_ctrl_plugin.so \
-    vendor/sony/ivy/proprietary/lib/hw/camera.qcom.so:system/vendor/lib/hw/camera.msm8994.so \
+    vendor/sony/ivy/proprietary/lib/hw/camera.qcom.so:system/vendor/lib/hw/camera.vendor.msm8994.so \
     vendor/sony/ivy/proprietary/lib/libcacao_client.so:system/lib/libcacao_client.so \
     vendor/sony/ivy/proprietary/lib/libcacao_common.so:system/lib/libcacao_common.so \
     vendor/sony/ivy/proprietary/lib/libcacao_imgproc.so:system/lib/libcacao_imgproc.so \
