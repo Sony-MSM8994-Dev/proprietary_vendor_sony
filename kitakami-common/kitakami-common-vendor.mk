@@ -108,6 +108,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/lib64/libtee.so:system/lib64/libtee.so \
     vendor/sony/kitakami-common/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/sony/kitakami-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
+    vendor/sony/kitakami-common/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/sony/kitakami-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/sony/kitakami-common/proprietary/vendor/bin/hw/android.hardware.drm@1.3-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.3-service.widevine \
     vendor/sony/kitakami-common/proprietary/vendor/etc/perf-profile0.conf:system/vendor/etc/perf-profile0.conf \
