@@ -338,6 +338,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar:system/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar \
     vendor/sony/kitakami-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/sony/kitakami-common/proprietary/system_ext/framework/qti-telephony-common.jar:$(TARGET_COPY_OUT_SYSTEM_EXT)/framework/qti-telephony-common.jar \
+    vendor/sony/kitakami-common/proprietary/system_ext/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptXHD_encoder.so \
+    vendor/sony/kitakami-common/proprietary/system_ext/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptX_encoder.so \
     vendor/sony/kitakami-common/proprietary/vendor/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon \
     vendor/sony/kitakami-common/proprietary/vendor/bin/imscmservice:system/vendor/bin/imscmservice \
     vendor/sony/kitakami-common/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
