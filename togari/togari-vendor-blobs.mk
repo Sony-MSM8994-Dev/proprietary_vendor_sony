@@ -38,6 +38,30 @@ PRODUCT_COPY_FILES += \
     vendor/sony/togari/proprietary/etc/firmware/modem.b25:system/etc/firmware/modem.b25 \
     vendor/sony/togari/proprietary/etc/firmware/modem.b26:system/etc/firmware/modem.b26 \
     vendor/sony/togari/proprietary/etc/firmware/modem.mdt:system/etc/firmware/modem.mdt \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/mba.b00:system/etc/firmware/c6x02/mba.b00 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/mba.mdt:system/etc/firmware/c6x02/mba.mdt \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.mdt:system/etc/firmware/c6x02/modem.mdt \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b00:system/etc/firmware/c6x02/modem.b00 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b01:system/etc/firmware/c6x02/modem.b01 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b02:system/etc/firmware/c6x02/modem.b02 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b03:system/etc/firmware/c6x02/modem.b03 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b04:system/etc/firmware/c6x02/modem.b04 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b05:system/etc/firmware/c6x02/modem.b05 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b08:system/etc/firmware/c6x02/modem.b08 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b11:system/etc/firmware/c6x02/modem.b11 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b13:system/etc/firmware/c6x02/modem.b13 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b14:system/etc/firmware/c6x02/modem.b14 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b15:system/etc/firmware/c6x02/modem.b15 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b16:system/etc/firmware/c6x02/modem.b16 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b17:system/etc/firmware/c6x02/modem.b17 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b18:system/etc/firmware/c6x02/modem.b18 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b19:system/etc/firmware/c6x02/modem.b19 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b20:system/etc/firmware/c6x02/modem.b20 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b21:system/etc/firmware/c6x02/modem.b21 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b22:system/etc/firmware/c6x02/modem.b22 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b25:system/etc/firmware/c6x02/modem.b25 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.b26:system/etc/firmware/c6x02/modem.b26 \
+    vendor/sony/togari/proprietary/etc/firmware/c6x02/modem.mdt:system/etc/firmware/c6x02/modem.mdt \
     vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x74_config_id_0x0011.bin:system/etc/firmware/touch_chip_id_0x74_config_id_0x0011.bin \
     vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x74_config_id_0x0460.bin:system/etc/firmware/touch_chip_id_0x74_config_id_0x0460.bin \
     vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x75_config_id_0x0010.bin:system/etc/firmware/touch_chip_id_0x75_config_id_0x0010.bin \
