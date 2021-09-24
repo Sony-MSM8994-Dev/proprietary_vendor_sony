@@ -249,6 +249,58 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/vendor/camera/SEM02BN1/scene_detector.dat:system/vendor/camera/SEM02BN1/scene_detector.dat \
 	vendor/sony/rhine-common/proprietary/vendor/camera/SEM02BN1/snapshot_ctrl.dat:system/vendor/camera/SEM02BN1/snapshot_ctrl.dat \
 	vendor/sony/rhine-common/proprietary/vendor/camera/SEM02BN1/streaming_ctrl.dat:system/vendor/camera/SEM02BN1/streaming_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/cam_ctrl.dat:system/vendor/camera/SEM08BS2/cam_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/cap_ctrl.dat:system/vendor/camera/SEM08BS2/cap_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/chokoball.dat:system/vendor/camera/SEM08BS2/chokoball.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/color_ctrl.dat:system/vendor/camera/SEM08BS2/color_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/dataflow.dat:system/vendor/camera/SEM08BS2/dataflow.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/debug_mgr.dat:system/vendor/camera/SEM08BS2/debug_mgr.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/exposure_ctrl.dat:system/vendor/camera/SEM08BS2/exposure_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/face_detector.dat:system/vendor/camera/SEM08BS2/face_detector.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/flicker_detector.dat:system/vendor/camera/SEM08BS2/flicker_detector.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/focus_stats_conv.dat:system/vendor/camera/SEM08BS2/focus_stats_conv.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/hal_ctrl.dat:system/vendor/camera/SEM08BS2/hal_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/hal_ctrl_platform.dat:system/vendor/camera/SEM08BS2/hal_ctrl_platform.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/hdr_comp.dat:system/vendor/camera/SEM08BS2/hdr_comp.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/idt_ctrl.dat:system/vendor/camera/SEM08BS2/idt_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/image_conv.dat:system/vendor/camera/SEM08BS2/image_conv.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/imgproc.dat:system/vendor/camera/SEM08BS2/imgproc.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/jpeg_enc.dat:system/vendor/camera/SEM08BS2/jpeg_enc.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/lens_ctrl.dat:system/vendor/camera/SEM08BS2/lens_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/module.dat:system/vendor/camera/SEM08BS2/module.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/motion_estimation.dat:system/vendor/camera/SEM08BS2/motion_estimation.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/multiframe_nr.dat:system/vendor/camera/SEM08BS2/multiframe_nr.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/object_tracker.dat:system/vendor/camera/SEM08BS2/object_tracker.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/scene_detector.dat:system/vendor/camera/SEM08BS2/scene_detector.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/snapshot_ctrl.dat:system/vendor/camera/SEM08BS2/snapshot_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SEM08BS2/streaming_ctrl.dat:system/vendor/camera/SEM08BS2/streaming_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/cam_ctrl.dat:system/vendor/camera/SOI08BS2/cam_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/cap_ctrl.dat:system/vendor/camera/SOI08BS2/cap_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/chokoball.dat:system/vendor/camera/SOI08BS2/chokoball.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/color_ctrl.dat:system/vendor/camera/SOI08BS2/color_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/dataflow.dat:system/vendor/camera/SOI08BS2/dataflow.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/debug_mgr.dat:system/vendor/camera/SOI08BS2/debug_mgr.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/exposure_ctrl.dat:system/vendor/camera/SOI08BS2/exposure_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/face_detector.dat:system/vendor/camera/SOI08BS2/face_detector.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/flicker_detector.dat:system/vendor/camera/SOI08BS2/flicker_detector.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/focus_stats_conv.dat:system/vendor/camera/SOI08BS2/focus_stats_conv.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/hal_ctrl.dat:system/vendor/camera/SOI08BS2/hal_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/hal_ctrl_platform.dat:system/vendor/camera/SOI08BS2/hal_ctrl_platform.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/hdr_comp.dat:system/vendor/camera/SOI08BS2/hdr_comp.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/idt_ctrl.dat:system/vendor/camera/SOI08BS2/idt_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/image_conv.dat:system/vendor/camera/SOI08BS2/image_conv.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/imgproc.dat:system/vendor/camera/SOI08BS2/imgproc.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2_BU64291GWZ.dat:system/vendor/camera/SOI08BS2_BU64291GWZ.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2_IMX134.dat:system/vendor/camera/SOI08BS2_IMX134.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/jpeg_enc.dat:system/vendor/camera/SOI08BS2/jpeg_enc.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/lens_ctrl.dat:system/vendor/camera/SOI08BS2/lens_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/module.dat:system/vendor/camera/SOI08BS2/module.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/motion_estimation.dat:system/vendor/camera/SOI08BS2/motion_estimation.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/multiframe_nr.dat:system/vendor/camera/SOI08BS2/multiframe_nr.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/object_tracker.dat:system/vendor/camera/SOI08BS2/object_tracker.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/scene_detector.dat:system/vendor/camera/SOI08BS2/scene_detector.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/snapshot_ctrl.dat:system/vendor/camera/SOI08BS2/snapshot_ctrl.dat \
+	vendor/sony/rhine-common/proprietary/vendor/camera/SOI08BS2/streaming_ctrl.dat:system/vendor/camera/SOI08BS2/streaming_ctrl.dat \
 	vendor/sony/rhine-common/proprietary/vendor/camera/SOI20BS0_BU64296GWX.dat:system/vendor/camera/SOI20BS0_BU64296GWX.dat \
 	vendor/sony/rhine-common/proprietary/vendor/camera/SOI20BS0/cam_ctrl.dat:system/vendor/camera/SOI20BS0/cam_ctrl.dat \
 	vendor/sony/rhine-common/proprietary/vendor/camera/SOI20BS0/cap_ctrl.dat:system/vendor/camera/SOI20BS0/cap_ctrl.dat \
