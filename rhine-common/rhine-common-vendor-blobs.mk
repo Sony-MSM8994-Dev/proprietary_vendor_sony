@@ -49,6 +49,19 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
 	vendor/sony/rhine-common/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
 	vendor/sony/rhine-common/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b00:system/etc/firmware/adsp.b00 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b01:system/etc/firmware/adsp.b01 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b02:system/etc/firmware/adsp.b02 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b03:system/etc/firmware/adsp.b03 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b04:system/etc/firmware/adsp.b04 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b05:system/etc/firmware/adsp.b05 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b06:system/etc/firmware/adsp.b06 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b07:system/etc/firmware/adsp.b07 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b08:system/etc/firmware/adsp.b08 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b09:system/etc/firmware/adsp.b09 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b10:system/etc/firmware/adsp.b10 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.b11:system/etc/firmware/adsp.b11 \
+	vendor/sony/rhine-common/proprietary/etc/firmware/adsp.mdt:system/etc/firmware/adsp.mdt \
 	vendor/sony/rhine-common/proprietary/etc/firmware/cmnlib.b00:system/etc/firmware/cmnlib.b00 \
 	vendor/sony/rhine-common/proprietary/etc/firmware/cmnlib.b01:system/etc/firmware/cmnlib.b01 \
 	vendor/sony/rhine-common/proprietary/etc/firmware/cmnlib.b02:system/etc/firmware/cmnlib.b02 \
