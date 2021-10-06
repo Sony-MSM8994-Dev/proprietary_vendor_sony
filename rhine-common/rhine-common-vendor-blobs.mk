@@ -95,6 +95,11 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x5c.img:system/etc/firmware/touch_module_id_0x5c.img \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x5e.img:system/etc/firmware/touch_module_id_0x5e.img \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x5f.img:system/etc/firmware/touch_module_id_0x5f.img \
+    vendor/sony/rhine-common/proprietary/etc/firmware/tzhdcp.b00:system/etc/firmware/tzhdcp.b00 \
+    vendor/sony/rhine-common/proprietary/etc/firmware/tzhdcp.b01:system/etc/firmware/tzhdcp.b01 \
+    vendor/sony/rhine-common/proprietary/etc/firmware/tzhdcp.b02:system/etc/firmware/tzhdcp.b02 \
+    vendor/sony/rhine-common/proprietary/etc/firmware/tzhdcp.b03:system/etc/firmware/tzhdcp.b03 \
+    vendor/sony/rhine-common/proprietary/etc/firmware/tzhdcp.mdt:system/etc/firmware/tzhdcp.mdt \
 	vendor/sony/rhine-common/proprietary/etc/firmware/tzlibasb.b00:system/etc/firmware/tzlibasb.b00 \
 	vendor/sony/rhine-common/proprietary/etc/firmware/tzlibasb.b01:system/etc/firmware/tzlibasb.b01 \
 	vendor/sony/rhine-common/proprietary/etc/firmware/tzlibasb.b02:system/etc/firmware/tzlibasb.b02 \
