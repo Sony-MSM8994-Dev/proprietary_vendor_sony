@@ -73,6 +73,8 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
 	vendor/sony/rhine-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
 	vendor/sony/rhine-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/sony/rhine-common/proprietary/etc/firmware/mba.b00:system/etc/firmware/mba.b00 \
+    vendor/sony/rhine-common/proprietary/etc/firmware/mba.mdt:system/etc/firmware/mba.mdt \
 	vendor/sony/rhine-common/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
 	vendor/sony/rhine-common/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
 	vendor/sony/rhine-common/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
