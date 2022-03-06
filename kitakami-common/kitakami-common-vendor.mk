@@ -129,7 +129,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/vendor/lib/hw/gatekeeper.msm8994.so:system/vendor/lib/hw/gatekeeper.msm8994.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib/hw/sound_trigger.primary.msm8994.so:system/vendor/lib/hw/sound_trigger.primary.msm8994.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib/hw/keystore.msm8994.so:system/vendor/lib/hw/keystore.msm8994.so \
-    vendor/sony/kitakami-common/proprietary/vendor/lib/hw/vulkan.msm8994.so:system/vendor/lib/hw/vulkan.msm8994.so \
+    vendor/sony/kitakami-common/proprietary/vendor/lib/hw/vulkan.msm8994.so:system/vendor/lib/vulkan.msm8994.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib/libEGL_adreno.so:system/vendor/lib/libEGL_adreno.so \
@@ -196,7 +196,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib64/hw/gatekeeper.msm8994.so:system/vendor/lib64/hw/gatekeeper.msm8994.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib64/hw/keystore.msm8994.so:system/vendor/lib64/hw/keystore.msm8994.so \
-    vendor/sony/kitakami-common/proprietary/vendor/lib64/hw/vulkan.msm8994.so:system/vendor/lib64/hw/vulkan.msm8994.so \
+    vendor/sony/kitakami-common/proprietary/vendor/lib64/hw/vulkan.msm8994.so:system/vendor/lib64/vulkan.msm8994.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
     vendor/sony/kitakami-common/proprietary/vendor/lib64/libEGL_adreno.so:system/vendor/lib64/libEGL_adreno.so \
