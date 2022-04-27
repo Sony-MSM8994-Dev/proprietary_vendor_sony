@@ -89,10 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/lib/libexcal_system.so:system/lib/libexcal_system.so \
     vendor/sony/ivy/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/ivy/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
-    vendor/sony/ivy/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/sony/ivy/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/sony/ivy/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/sony/ivy/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/sony/ivy/proprietary/lib/libsomc_alfort.so:system/lib/libsomc_alfort.so \
     vendor/sony/ivy/proprietary/lib/libsomc_alfortrsc.so:system/lib/libsomc_alfortrsc.so \
     vendor/sony/ivy/proprietary/lib/libsomc_bordeaux.so:system/lib/libsomc_bordeaux.so \

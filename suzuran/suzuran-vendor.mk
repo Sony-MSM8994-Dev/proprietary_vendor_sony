@@ -90,10 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/suzuran/proprietary/lib/libexcal_system.so:system/lib/libexcal_system.so \
     vendor/sony/suzuran/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/suzuran/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
-    vendor/sony/suzuran/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/sony/suzuran/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/sony/suzuran/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/sony/suzuran/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/sony/suzuran/proprietary/lib/libsomc_alfort.so:system/lib/libsomc_alfort.so \
     vendor/sony/suzuran/proprietary/lib/libsomc_alfortrsc.so:system/lib/libsomc_alfortrsc.so \
     vendor/sony/suzuran/proprietary/lib/libsomc_bordeaux.so:system/lib/libsomc_bordeaux.so \
