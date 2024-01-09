@@ -162,6 +162,7 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 	vendor/sony/rhine-common/proprietary/lib/hw/camera.vendor.qcom.so:system/lib/hw/camera.vendor.qcom.so \
 	vendor/sony/rhine-common/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
+	vendor/sony/rhine-common/proprietary/lib/libboringssl-compat.so:system/lib/libboringssl-compat.so \
 	vendor/sony/rhine-common/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
 	vendor/sony/rhine-common/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
 	vendor/sony/rhine-common/proprietary/lib/libcacao_chokoball.so:system/lib/libcacao_chokoball.so \
