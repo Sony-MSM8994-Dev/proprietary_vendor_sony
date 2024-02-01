@@ -85,6 +85,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
     vendor/sony/kitakami-common/proprietary/lib/libplstorage.so:system/lib/libplstorage.so \
     vendor/sony/kitakami-common/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
+    vendor/sony/kitakami-common/proprietary/lib/libshims_boringssl.so:system/lib/libshims_boringssl.so \
     vendor/sony/kitakami-common/proprietary/lib/libsuntory.so:system/lib/libsuntory.so \
     vendor/sony/kitakami-common/proprietary/lib/libsuntory_utils.so:system/lib/libsuntory_utils.so \
     vendor/sony/kitakami-common/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
@@ -101,6 +102,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kitakami-common/proprietary/lib64/libmiscta.so:system/lib64/libmiscta.so \
     vendor/sony/kitakami-common/proprietary/lib64/libplstorage.so:system/lib64/libplstorage.so \
     vendor/sony/kitakami-common/proprietary/lib64/libprotobuf-c.so:system/lib64/libprotobuf-c.so \
+    vendor/sony/kitakami-common/proprietary/lib64/libshims_boringssl.so:system/lib64/libshims_boringssl.so \
     vendor/sony/kitakami-common/proprietary/lib64/libsuntory.so:system/lib64/libsuntory.so \
     vendor/sony/kitakami-common/proprietary/lib64/libsuntory_utils.so:system/lib64/libsuntory_utils.so \
     vendor/sony/kitakami-common/proprietary/lib64/libsys-utils.so:system/lib64/libsys-utils.so \
